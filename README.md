@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Astrologers App Using React](https://github.com/apni-coding/Astrology-App)<br><br>- 🌱 I’m currently learning **MERN Stack Web Developer**<br><br>- 💬 Ask me about **React, Java**<br><br>- 📫 How to reach me **apnicoding72@gmail.com**<br><br>- 📄 Know about my experiences [Resume Download](https://drive.google.com/file/d/13F3GaetbqDHWcQDIOtzXduTBhBBi9MS1/view?usp=sharing)
+🔭 I’m currently working on [Bidder App ~ A Full Stack Application](https://github.com/apni-coding/bidder-app-fe)<br><br>- 🌱 I’m currently learning **MERN Stack Web Developer**<br><br>- 💬 Ask me about **React, Java**<br><br>- 📫 How to reach me **apnicoding72@gmail.com**<br><br>- 📄 Know about my experiences [Resume Download](https://drive.google.com/file/d/13F3GaetbqDHWcQDIOtzXduTBhBBi9MS1/view?usp=sharing)
 
 
 ## 🌐 Socials:
